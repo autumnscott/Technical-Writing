@@ -9,3 +9,5 @@ When writing papers I usually start by identifying my purpose for writing, follo
 [text]
 
 ( quote )
+
+**bold**
