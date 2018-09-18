@@ -1,4 +1,4 @@
-# Technical Writing - PRactice Assignment
+# Technical Writing - Practice Assignment
 
 # How I Write Papers
 
